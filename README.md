@@ -54,5 +54,9 @@ Or Run the Python Script Directly:
 ## License
 This project is licensed under the [MIT License](license). Feel free to use, modify, and distribute this project as per the license terms.
 
+---
+
+## Contributions
+Contributions are welcome! Please open an issue or submit a pull request for any feature suggestions or improvements.
 
    
